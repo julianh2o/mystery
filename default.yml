@@ -1,0 +1,12 @@
+cards:
+  - id: "0003534935"
+    default: 
+      - "TEXT #color=blue balls"
+      - "TEXT #y=14 #color=red butts"
+      - "TEXT #y=22 #color=green thumbs"
+  - id: "0003575400"
+    default: 
+      - "TEXT delicious kisses"
+  - id: "0004087342"
+    default: 
+      - "IMAGE bar.png"
